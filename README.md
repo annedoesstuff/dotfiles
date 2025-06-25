@@ -2,6 +2,8 @@
 
 This repository contains the most important configuration files.
 
+![Screenshot 2025-06-24 093624](https://github.com/user-attachments/assets/e4cea6f0-22e6-489f-b6ea-6adbe1a310a8)
+
 ---
 
 ## Contents
